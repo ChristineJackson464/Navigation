@@ -21,7 +21,7 @@ html {
 }
 
 .dots-btn {
-  background-color: #25ac78;
+  background-color: #75595d;
   height: 10rem;
   width: 10rem;
   position: absolute;
@@ -29,7 +29,7 @@ html {
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  box-shadow: 0 1rem 3rem rgba(13, 83, 57, 0.4);
+  box-shadow: 0 1rem 3rem rgba(117, 89, 93, 0.4);
   cursor: pointer;
   display: flex;
   justify-content: space-evenly;
@@ -63,12 +63,12 @@ html {
 }
 
 .nav-menu {
-  background-color: #25ac78;
+  background-color: rgb(124, 96, 100);
   height: 3.5rem;
   width: 0;
   padding: 2rem 3rem;
   border-radius: 5rem;
-  box-shadow: 0 1rem 3rem rgba(37, 172, 120, 0.4);
+  box-shadow: 0 1rem 3rem rgba(117, 89, 93, 0.4);
   transition: width 0.3s;
 }
 
